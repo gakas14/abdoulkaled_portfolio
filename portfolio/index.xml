@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on AbdoulKaled </title>
+    <link>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/</link>
+    <description>Recent content in Projects on AbdoulKaled </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© AbdoulKaled</copyright>
+    <lastBuildDate>Fri, 02 Jul 2021 19:47:09 +0200</lastBuildDate><atom:link href="https://gakas14.github.io/abdoulkaled_portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon Employee</title>
+      <link>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project1/</link>
+      <pubDate>Fri, 02 Jul 2021 19:47:09 +0200</pubDate>
+      
+      <guid>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project1/</guid>
+      <description>Create a tool that predict the accuracy of the access status to certain resources of employees. Auto-access models seek to minimize human involvement.  Link to GitHub</description>
+    </item>
+    
+    <item>
+      <title>Health Insurance Cost</title>
+      <link>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project2/</link>
+      <pubDate>Sun, 20 Jun 2021 19:47:09 +0200</pubDate>
+      
+      <guid>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project2/</guid>
+      <description> Find the correlation of every pair of features (and the outcome variable). Visualize the correlations using a heatmap. Normalize the inputs. Use the test data to find out the accuracy of the model. Visualize how the model uses the different features and which features have a greater effect.  </description>
+    </item>
+    
+  </channel>
+</rss>
