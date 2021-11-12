@@ -1,13 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HOME on AbdoulKaled </title>
+    <title>HOME on AbdoulKaled</title>
     <link>https://gakas14.github.io/abdoulkaled_portfolio/</link>
-    <description>Recent content in HOME on AbdoulKaled </description>
+    <description>Recent content in HOME on AbdoulKaled</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© AbdoulKaled</copyright>
-    <lastBuildDate>Fri, 02 Jul 2021 19:47:09 +0200</lastBuildDate><atom:link href="https://gakas14.github.io/abdoulkaled_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©AbdoulKaled</copyright>
+    <lastBuildDate>Fri, 20 Aug 2021 19:47:09 +0200</lastBuildDate><atom:link href="https://gakas14.github.io/abdoulkaled_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>California House Price Prediction</title>
+      <link>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project5/</link>
+      <pubDate>Fri, 20 Aug 2021 19:47:09 +0200</pubDate>
+      
+      <guid>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project5/</guid>
+      <description>Build a model of housing prices to predict median house values in California using the provided dataset.
+  Train the model to learn from the data to predict the median housing price in any district, given all the other metrics.
+  Predict housing prices based on median_income and plot the regression chart for it.
+  Link to GitHub</description>
+    </item>
+    
+    <item>
+      <title>Text Mining FIFAWorldCup2018</title>
+      <link>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project3/</link>
+      <pubDate>Thu, 15 Jul 2021 19:47:09 +0200</pubDate>
+      
+      <guid>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project3/</guid>
+      <description>Python functions that accept a string and return N most frequent nouns (Take function name as “GetNMostFrequentNouns”) N most frequent verbs (Take function name as “GetNMostFrequentVerbs”) N most frequent delimiters (Take function name as “GetNMostFrequentDelimiters”) N most frequent prepositions (Take function name as “GetNMostFrequentPrepositions”) Run all the functions on the file “FIFAWorldCup2018.txt” and print the results. Python function that accepts a string and prints the first sentence in the string along with its syntax tree.</description>
+    </item>
+    
+    <item>
+      <title>Car Evaluation</title>
+      <link>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project4/</link>
+      <pubDate>Sat, 03 Jul 2021 19:47:09 +0200</pubDate>
+      
+      <guid>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project4/</guid>
+      <description>Predict the condition of a vehicle based on its features. Plot the most important features. Train multiple classifiers and compare the accuracy. Evaluate the XGBoost model with K-fold cross-validation.  Link to GitHub</description>
+    </item>
+    
     <item>
       <title>Amazon Employee</title>
       <link>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project1/</link>
@@ -42,7 +72,7 @@
       
       <guid>https://gakas14.github.io/abdoulkaled_portfolio/post/portfolio-definition/</guid>
       <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;./post/images/portfolio-example.png&#34;
+&lt;figure&gt;&lt;img src=&#34;https://gakas14.github.io/abdoulkaled_portfolio/post/images/portfolio-example.png&#34;
          alt=&#34;Example of Portfolio page&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;Example of Portfolio page&lt;/p&gt;
         &lt;/figcaption&gt;

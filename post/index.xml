@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>POST on AbdoulKaled </title>
+    <title>POST on AbdoulKaled</title>
     <link>https://gakas14.github.io/abdoulkaled_portfolio/post/</link>
-    <description>Recent content in POST on AbdoulKaled </description>
+    <description>Recent content in POST on AbdoulKaled</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© AbdoulKaled</copyright>
+    <copyright>©AbdoulKaled</copyright>
     <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="https://gakas14.github.io/abdoulkaled_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started</title>
@@ -24,7 +24,7 @@
       
       <guid>https://gakas14.github.io/abdoulkaled_portfolio/post/portfolio-definition/</guid>
       <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;../post/images/portfolio-example.png&#34;
+&lt;figure&gt;&lt;img src=&#34;https://gakas14.github.io/abdoulkaled_portfolio/post/images/portfolio-example.png&#34;
          alt=&#34;Example of Portfolio page&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;Example of Portfolio page&lt;/p&gt;
         &lt;/figcaption&gt;

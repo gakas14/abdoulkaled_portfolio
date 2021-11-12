@@ -2,17 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project1/</loc>
-    <lastmod>2021-07-02T19:47:09+02:00</lastmod>
+    <loc>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project5/</loc>
+    <lastmod>2021-08-20T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://gakas14.github.io/abdoulkaled_portfolio/</loc>
-    <lastmod>2021-07-02T19:47:09+02:00</lastmod>
+    <lastmod>2021-08-20T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/</loc>
+    <lastmod>2021-08-20T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project3/</loc>
+    <lastmod>2021-07-15T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project4/</loc>
+    <lastmod>2021-07-03T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gakas14.github.io/abdoulkaled_portfolio/portfolio/project1/</loc>
     <lastmod>2021-07-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
